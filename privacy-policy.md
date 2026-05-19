@@ -1,6 +1,6 @@
 # Privacy Policy for DateMind
 
-**Last Updated:** May 18, 2026  
+**Last Updated:** May 19, 2026  
 **Effective Date:** May 18, 2026
 
 ## 1. Overview
@@ -132,8 +132,13 @@ When you share events with others:
 
 **Cloud deletion:**
 - Events are synced to cloud only if you're signed in
-- Sign out → tap Settings → Sign out
-- Contact us to request full account deletion (see **Contact** section)
+- In-app full deletion: Settings → Delete my account and data
+- The in-app delete action removes your cloud data tied to your signed-in account and signs you out
+- You can also contact us to request full account deletion (see **Contact** section)
+
+**Deletion timing:**
+- Cloud data is removed from our primary database as part of the account deletion flow
+- Encrypted backup copies may persist for a limited period based on infrastructure backup rotation
 
 **Third-party deletion:**
 - To delete your Google account: [Google Account deletion](https://support.google.com/accounts/answer/8313285)
@@ -224,7 +229,10 @@ This policy does not cover third-party services linked in the app (e.g., Google,
 - Enable "Cloud sync" ✓
 - Create a share code ✓
 
+**My synced cloud data is deleted when I:**
+- Use "Delete my account and data" in Settings while signed in ✓
+
 ---
 
-**DateMind Privacy Policy v1.0**  
+**DateMind Privacy Policy v1.1**  
 Transparent, minimal data collection. Your calendar, your control.
